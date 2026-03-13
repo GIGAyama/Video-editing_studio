@@ -17,7 +17,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/GIGAyama/Video-editing_studio/issues"
   },
@@ -28,11 +28,11 @@
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^6.0.0",
+    "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.27",
     "gh-pages": "^6.3.0",
     "postcss": "^8.5.8",
-    "tailwindcss": "^4.2.1",
-    "vite": "^8.0.0"
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.21"
   }
 }
